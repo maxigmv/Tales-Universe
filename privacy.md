@@ -1,5 +1,5 @@
 #Privacy Policy 
-Privacy Policy Last updated: (add date) 
+Privacy Policy Last updated: 5/23/2016 
 
 MV Development ("us", "we", or "our") operates Tales Universe / Universo de Cuentos mobile application (“app”).
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the app. We use your Personal Information only for providing and improving the app. By using the Application, you agree to the collection and use of information in accordance with this policy. 
